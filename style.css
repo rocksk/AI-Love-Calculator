@@ -1,0 +1,17 @@
+
+body {
+    background-color: #f8f9fa;
+}
+
+.progress-bar {
+    background-color: #dc3545; /* Red color like in the image */
+    font-size: 1rem;
+}
+
+.card {
+    border: none;
+}
+
+#compatibility-analysis {
+    background-color: #fff;
+}
