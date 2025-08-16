@@ -1,7 +1,7 @@
 # AI-Love-Calculator
 Curious about your love match? The AI-Powered Love Calculator is a fun and interactive tool that analyzes the chemistry between two people based on their names, love and astrology.
 
-# [AI-Email-Writer](https://github.com/rocksk/AI-Love-Calculator/)
+# [AI-Love-Calculator](https://github.com/rocksk/AI-Love-Calculator/)
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen)](https://allaiprompts.net/ai-tools/AI-Love-Calculator/)
 ![GitHub Stars](https://img.shields.io/github/stars/rocksk/AI-love-calculator?style=social)
