@@ -3,7 +3,7 @@ Curious about your love match? The AI-Powered Love Calculator is a fun and inter
 
 # [AI-Love-Calculator](https://github.com/rocksk/AI-Love-Calculator/)
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen)](https://allaiprompts.net/ai-tools/AI-Love-Calculator/)
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen)](https://allaiprompts.net/ai-tools/ai-love-calculator/)
 ![GitHub Stars](https://img.shields.io/github/stars/rocksk/AI-love-calculator?style=social)
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 
